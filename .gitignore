@@ -4,7 +4,28 @@ __pycache__/
 *$py.class
 
 # C extensions
+
+
 *.so
+__pycache__/
+
+*.pyc
+
+.env
+
+.vscode/
+
+.idea/
+
+*.jpg
+
+*.png
+
+*.mp4
+
+
+
+
 
 # Distribution / packaging
 .Python
@@ -213,6 +234,10 @@ tempCodeRunnerFile.py
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+
+
 
 # Streamlit
 .streamlit/secrets.toml
